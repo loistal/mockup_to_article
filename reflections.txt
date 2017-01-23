@@ -7,3 +7,16 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+* What new skills have you learned?
+- new lines
+- superscripts
+
+* What has been easy?
+- everything
+
+* What has been difficult?
+- nothing
+
+* How have you used the problem solving strategies from the first project to overcome 
+- I studied the relevant material beforehand
